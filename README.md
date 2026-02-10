@@ -19,3 +19,8 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ```python
 print("Hello, GitHub!")
+
+- [x] Add header
+- [x] Add image
+- [ ] Finish Markdown course
+
